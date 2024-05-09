@@ -4,7 +4,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class activity4 {
+public class Activity4 {
     public static void main(String[] args) {
         // Setup the Firefox driver (GeckoDriver) using WebDriverManager
         WebDriverManager.firefoxdriver().setup();
