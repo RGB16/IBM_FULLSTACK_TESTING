@@ -4,7 +4,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class activity9{
+public class Activity9{
     private static Object Assertions;
 
     public static void main(String[] args) {
