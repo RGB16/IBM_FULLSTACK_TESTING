@@ -2,7 +2,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.*;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-public class activity10 {
+public class Activity10 {
     public static void main(String[] args){
         // Setup the Firefox driver(GeckoDriver)
         WebDriverManager.firefoxdriver().setup();
