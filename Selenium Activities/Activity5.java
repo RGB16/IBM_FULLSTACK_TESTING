@@ -4,7 +4,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.interactions.Actions;
 
-public class activity5 {
+public class Activity5 {
     public static void main(String[] args) {
         WebDriverManager.firefoxdriver().setup();
         WebDriver driver = new FirefoxDriver();
