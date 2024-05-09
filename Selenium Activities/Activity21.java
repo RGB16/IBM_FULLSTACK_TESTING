@@ -11,7 +11,7 @@ import java.util.Set;
 
 import static org.openqa.selenium.support.ui.ExpectedConditions.numberOfWindowsToBe;
 
-public class activity21 {
+public class Activity21 {
     public static void main(String[] args) {
         WebDriverManager.firefoxdriver().setup();
         WebDriver driver = new FirefoxDriver();
