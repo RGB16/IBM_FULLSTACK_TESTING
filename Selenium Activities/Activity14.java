@@ -6,7 +6,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 import java.util.List;
 
-public class activity14 {
+public class Activity14 {
     public static void main(String[] args) {
         WebDriverManager.firefoxdriver().setup();
 
