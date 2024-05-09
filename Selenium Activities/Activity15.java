@@ -15,7 +15,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 import java.time.Duration;
 
-public class activity15 {
+public class Activity15 {
     public static void main(String[] args) {
         // Setup the Firefox driver (GeckoDriver) using WebDriverManager
         WebDriverManager.firefoxdriver().setup();
