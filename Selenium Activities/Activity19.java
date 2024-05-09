@@ -5,7 +5,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.Alert;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class activity19 {
+public class Activity19 {
     public static void main(String[] args) {
         WebDriverManager.firefoxdriver().setup();
 
